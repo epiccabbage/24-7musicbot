@@ -1,0 +1,48 @@
+# Entry removed Sun Dec 10 15:02:55 2017
+# Reason: ERROR: rwYU8jq6Qw0: YouTube said: This video is not available.
+https://youtube.com/watch?v=rwYU8jq6Qw0
+
+################################
+
+# Entry removed Sun Dec 10 15:12:47 2017
+# Reason: ERROR: qGaOlfmX8rQ: YouTube said: This video contains content from Believe Music, who has blocked it on copyright grounds.
+https://youtube.com/watch?v=qGaOlfmX8rQ
+
+################################
+
+# Entry removed Sun Dec 10 16:29:22 2017
+# Reason: ERROR: oBllGsz-6Os: YouTube said: This video does not exist.
+https://youtube.com/watch?v=oBllGsz-6Os
+
+################################
+
+# Entry removed Sun Dec 10 16:29:25 2017
+# Reason: ERROR: WzSQsl2C5dM: YouTube said: This video is not available.
+https://youtube.com/watch?v=WzSQsl2C5dM
+
+################################
+
+# Entry removed Sun Dec 10 17:01:52 2017
+# Reason: ERROR: 9xx69FxiZrc: YouTube said: This video does not exist.
+https://youtube.com/watch?v=9xx69FxiZrc
+
+################################
+
+# Entry removed Sun Dec 10 17:01:54 2017
+# Reason: ERROR: aVzh-b7HenE: YouTube said: This video does not exist.
+https://youtube.com/watch?v=aVzh-b7HenE
+
+################################
+
+# Entry removed Sun Dec 10 17:25:55 2017
+# Reason: ERROR: h9YEWIpBQco: YouTube said: The uploader has not made this video available.
+https://youtube.com/watch?v=h9YEWIpBQco
+
+################################
+
+# Entry removed Sun Dec 10 17:25:57 2017
+# Reason: ERROR: jAVMElUXLi0: YouTube said: This video is not available.
+https://youtube.com/watch?v=jAVMElUXLi0
+
+################################
+
